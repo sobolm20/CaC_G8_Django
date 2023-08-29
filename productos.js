@@ -1,0 +1,66 @@
+productos =[
+{ 
+    articulo:   "Taladro Percutor 13mm 20V Brushless + 2 Baterías Y Maleta",
+    imagen:     "https://ar.stanleytools.global/LAG/PRODUCT/IMAGES/HIRES/SBD715C2K-AR/SBD715C2K_K1.jpg?resize=530x530",
+    precio:     "176,800",
+    marca:      "Stanley",
+    stock:      "15",
+    proveedor:  "Maquinarias Boedo - Av. Boedo 1095, C1239 CABA ARGENTINA - Teléfono: 011 4957-6741 - ventas@maquinariasboedo.com - alquiler@maquinariasboedo.com - www.maquinariasboedo.com",  
+    descripcion: "Incluye Taladro Atornillador Percutor SBD715C2K - 2 Baterías 20V 1.5Ah - Cargador - Maletín"
+},
+{
+    articulo:   "Kit Atornillador Inalambrico 3.6V + 138 Acc",
+    imagen:     "https://ar.blackanddecker.global/LAG/PRODUCT/IMAGES/HIRES/BD7260-AR/BD7260_1.jpg?resize=530x530",
+    precio:     "57,260",
+    marca:      "Black+Decker",
+    stock:      "20",
+    proveedor:  "BLACK Y DECKER ARGENTINA S A - Dirección:COLEC DE PANAMERICANA 32 / EL TALAR / 1618-BUENOS AIRES",  
+    descripcion: "Embrague de 24 posiciones que evita que los tornillos se dañen",
+    },
+    {
+    articulo:   "Sierra circular eléctrica de 7-1/4 @185mm",
+    imagen:     "https://ar.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DWE560-AR/DWE560_1.jpg?resize=530x530",
+    precio:     "$179.999",
+    marca:      "DeWalt",
+    stock:      "6",
+    proveedor:  "Wacker Herramientas – Nuestra Sra. De Loreto 2373 – Villa Raffo – Bs As – Tel 011 4757-9555",
+    descripcion: "Potente motor de 1400 Watts",
+    },
+    {
+    artiulo:    "Remachadora accu GRG 18V-16 C",
+    imagen:     "https://herramientabosch.com/5662-large_default/remachadora-accu-grg-18v-16-c.jpg",
+    precio:     "$352.577",
+    marca:      "Bosch",
+    stock:      "11",
+    proveedor:  "Robert Bosch Argentina Industrial S.A - Mail: contacto@ar.bosch.com - Teléfono: 0800-4444-26724",  
+    descripcion: "Permite colocar remaches ciegos de 3,0 mm a 6,4 mm con una sola herramienta",
+    },
+    {
+    articulo:   "Laser de Linea Cruzada y Plomada PM 20-CG 12V",
+    imagen:     "https://www.hilti.com.ar/medias/sys_master/images/hd6/h3c/9720872960030.jpg",
+    precio:     "$228.300,80",
+    marca:      "Hilti",
+    stock:      "8",
+    proveedor:  "LOCAL HILTI VICENTE LOPEZ - Av. Maipú 1773, Vicente Lopez 1638 Buenos Aires – Tel 0800 44 44584 - E-mail: arservicio_clientes@hilti.com",  
+    descripcion: "Láser combinado de luz verde con 2 líneas y 5 puntos para tareas de plomada, nivelado, alineaciones y cálculos de escuadras (plataforma de herramientas a batería de 12 V)",
+    },
+    {
+    artiulo:    "Pistola de Calor Inalámbrica LXT 18 V",
+    imagen:     "https://makita.com.ar/uploads/products/1660169113-91461.png",
+    precio:     "$133.084",
+    marca:      "makita",
+    stock:      "4",
+    proveedor:  "buloneraburzaco  -  Av. Monteverde 4184, Burzaco, Buenos Aires - Email: buloneraburzaco@hotmail.com  - Teléfono: +54 11 4299-8585 WhatsApp: +54 11 2685-8585",
+    descripcion: "Salida Máxima 10 W -Temperatura de Aire: Dial 1: Temperatura ambiente | Dial 2: 150°C | Dial 3 : 250? | Dial 4: 350? | Dial 5: 450? | Dial 6: 550",
+    },
+    {
+    artiulo:    "Lijadora Orbital Skil 7232 200W",
+    imagen:     "https://www.herramientasskil.com.ar/ar/es/ocsmedia/optimized/550/7232alta01(2).png",
+    precio:     "$27.015",
+    marca:      "Skil",
+    stock:      "6",
+    proveedor:  "Robert Bosch Argentina Industrial S.A - Mail: contacto@ar.bosch.com - Teléfono: 0800-4444-26724",
+    descripcion: "Lijadora Orbital de Palma Skil 7232, con 200 W de potencia y 14000 oscilaciones por minuto es la combi-ción de rendimiento y comodidad que cabe en la palma de su mano",
+    }
+]
+  
