@@ -182,5 +182,65 @@ productos =[
     descripcion:"Garden Plus CRGP120-8 capacidad 120 litros"
 
 }
+{
+    articulo:"Alicates-diagonales-de-acero-al-carbono-cortadores-de-cables-electricos-corte-lateral",
+    imagen:"img/Alicates-diagonales-de-acero-al-carbono-cortadores-de-cables-el-ctricos-corte-lateral-alicates-de-descarga.webp",
+    precio:"560.00",
+    marca:"URANN",
+    stock:"50",
+    proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
+    descripcion:"URANN Alicates-diagonales-de-acero-al-carbono"
+
+},
+{
+    articulo:"DEWALT DT71563 juego de brocas combinadas para carpintería, juego de herramientas manual",
+    imagen:"img/DEWALT-DT71563-juego-de-brocas-combinadas-para-carpinter-a-juego-de-herramientas-manuales-para-el-hogar.webp",
+    precio:"7562.00",
+    marca:"DEWALT",
+    stock:"10",
+    proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
+    descripcion:"DEWALT DT71563 juego de brocas combinadas para carpintería"
+
+},
+{
+    articulo:"DEWALT-amoladora angular de 18V, máquina de corte inalámbrica con Motor sin escobillas",
+    imagen:"img/DEWALT-amoladora-angular-de-18V-m-quina-de-corte-inal-mbrica-con-Motor-sin-escobillas-pulidora.webp",
+    precio:"37885.00",
+    marca:"DEWALT",
+    stock:"10",
+    proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
+    descripcion:"DEWALT-amoladora angular de 18V, máquina de corte inalámbrica con Motor sin escobillas"
+
+},
+{
+    articulo:"Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura",
+    imagen:"",
+    precio:"45599.00",
+    marca:"BOSCH",
+    stock:"3",
+    proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
+    descripcion:"Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura"
+
+},
+{
+    articulo:"Makita-llave ajustable de bloqueo de B-65470, herramienta de llave de tubo de extremo abierto",
+    imagen:"img/Makita-llave-ajustable-de-bloqueo-de-B-65470-herramienta-de-llave-de-tubo-de-extremo-abierto.webp",
+    precio:"3560.00",
+    marca:"MAKITA",
+    stock:"6",
+    proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
+    descripcion:"Makita llave ajustable de bloqueo de B-65470, llave de tubo de extremo abierto"
+
+},
+{
+    articulo:"Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker",
+    imagen:"img/Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker-Patch-IC.webp",
+    precio:"1450.00",
+    marca:"MORNYRAYMILKIWA",
+    stock:"50",
+    proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
+    descripcion:"Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker"
+
+},
 ]
   
