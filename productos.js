@@ -181,7 +181,7 @@ productos =[
     proveedor:"FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
     descripcion:"Garden Plus CRGP120-8 capacidad 120 litros"
 
-}
+},
 {
     articulo:"Alicates-diagonales-de-acero-al-carbono-cortadores-de-cables-electricos-corte-lateral",
     imagen:"img/Alicates-diagonales-de-acero-al-carbono-cortadores-de-cables-el-ctricos-corte-lateral-alicates-de-descarga.webp",
@@ -190,7 +190,6 @@ productos =[
     stock:"50",
     proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
     descripcion:"URANN Alicates-diagonales-de-acero-al-carbono"
-
 },
 {
     articulo:"DEWALT DT71563 juego de brocas combinadas para carpintería, juego de herramientas manual",
@@ -200,7 +199,6 @@ productos =[
     stock:"10",
     proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
     descripcion:"DEWALT DT71563 juego de brocas combinadas para carpintería"
-
 },
 {
     articulo:"DEWALT-amoladora angular de 18V, máquina de corte inalámbrica con Motor sin escobillas",
@@ -210,7 +208,6 @@ productos =[
     stock:"10",
     proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
     descripcion:"DEWALT-amoladora angular de 18V, máquina de corte inalámbrica con Motor sin escobillas"
-
 },
 {
     articulo:"Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura",
@@ -220,7 +217,6 @@ productos =[
     stock:"3",
     proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
     descripcion:"Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura"
-
 },
 {
     articulo:"Makita-llave ajustable de bloqueo de B-65470, herramienta de llave de tubo de extremo abierto",
@@ -230,7 +226,6 @@ productos =[
     stock:"6",
     proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
     descripcion:"Makita llave ajustable de bloqueo de B-65470, llave de tubo de extremo abierto"
-
 },
 {
     articulo:"Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker",
@@ -240,7 +235,6 @@ productos =[
     stock:"50",
     proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
     descripcion:"Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker"
-
 },
 ]
   
