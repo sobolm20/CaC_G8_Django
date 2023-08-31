@@ -61,8 +61,8 @@ productos =[
     stock:      "6",
     proveedor:  "Robert Bosch Argentina Industrial S.A - Mail: contacto@ar.bosch.com - Teléfono: 0800-4444-26724",
     descripcion: "Lijadora Orbital de Palma Skil 7232, con 200 W de potencia y 14000 oscilaciones por minuto es la combi-ción de rendimiento y comodidad que cabe en la palma de su mano",
-    }
-    {
+},
+{
     articulo:   "Linterna de aluminio mini 2xaa",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/T/2/T207.jpg",
     precio:     "$1500",
@@ -133,6 +133,54 @@ productos =[
     stock:      "150",
     proveedor:  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
     descripcion: "Tester Voltaje Digital Buscapolo H 500 V",
+},
+{
+    articulo:   "Hidrolavadora Lusqtoff Explosión Alta Presión Naftera 5.5hp",
+    imagen:     "https://http2.mlstatic.com/D_NQ_NP_986698-MLA53565761904_022023-O.webp",
+    precio:     "$231.840",
+    marca:      "Lüsqtoff",
+    stock:      "3",
+    proveedor:  "FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+    descripcion:"Su rocio agua de alta presion es entre diez y cincuenta veces mas potente, lo que hace mas eficaz y facil el proceso de limpieza."
+},
+{
+    articulo:"Kit Juego De Tubos 1/2 Pulgada Criquet 18pzs Maletín Racing",
+    imagen:"https://http2.mlstatic.com/D_NQ_NP_992160-MLA69392540205_052023-O.webp",
+    precio:"126.052,65",
+    marca:"Truper",
+    stock:"20",
+    proveedor:"FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+    descripcion:"Dados en acero al cromo vanadio. Estuche metalico con espuma que protege y mantiene organizadas las herramientas"
+},
+{
+    articulo:"Serrucho De Costilla Diamante 14'' Mango Madera Truper 18166",
+    imagen:"https://http2.mlstatic.com/D_NQ_NP_975718-MLU70398284522_072023-O.webp",
+    precio:"17.952,15",
+    marca:"Truper",
+    stock:"56",
+    proveedor:"FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+    descripcion:"El modelo STCX-14 es conocido por su durabilidad y resistencia, garantizando un rendimiento excepcional en cada uso. Ideal para aquellos que buscan calidad y eficiencia en sus herramientas."
+
+},
+{
+    articulo:"Manguera Riego Reforzada Trenzada 1/2 PuLG 13mm 100m Pretul",
+    imagen:"https://http2.mlstatic.com/D_NQ_NP_804318-MLA52764625984_122022-O.webp",
+    precio:"61911.50",
+    marca:"Pretul",
+    stock:"30",
+    proveedor:"FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+    descripcion:"Pretul Manguera Reforzada 1/2 X 100 Mts"
+
+},
+{
+    articulo:"Carretilla Gigante Reforzada Plástica 300kg 120lts Neumática",
+    imagen:"https://http2.mlstatic.com/D_NQ_NP_924797-MLA69154181639_042023-O.webp",
+    precio:"61716.00",
+    marca:"Lüsqtoff",
+    stock:"18",
+    proveedor:"FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+    descripcion:"Garden Plus CRGP120-8 capacidad 120 litros"
+
 }
 ]
   
