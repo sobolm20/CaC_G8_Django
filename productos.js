@@ -236,5 +236,61 @@ productos =[
     proveedor:"El tornillo loco-Calle Manzana No 9374- Harrenhall",
     descripcion:"Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker"
 },
+{
+    articulo:"Mandril para Taladro 1-2 pulgada-20Unf Pesado",
+    imagen:"img/Mandril para Taladro 1-2 pulgada-20Unf Pesado.webp",
+    precio:"14000.00",
+    marca:"BREMEN",
+    stock:"20",
+    proveedor:"Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+    descripcion:"Mandril para Taladro 1-2 pulgada-20Unf Pesado",
+}
+{
+    articulo:"Bocallaves Alto Impacto Largas Juego 13 Pz Bremen",
+    imagen:"img/Bocallaves Alto Impacto Largas Juego 13 Pz Bremen.webp",
+    precio:"39999",
+    marca:"BREMEN",
+    stock:"40",
+    proveedor:"Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+    descripcion:"Bocallaves Alto Impacto Largas Juego 13 Pz Bremen",
+}
+{
+    articulo:"Juego De Tubos Bocallaves Bremen 1-2 22 Piezas Saca Bujias",
+    imagen:"img/Juego De Tubos Bocallaves Bremen 1-2 22 Piezas Saca Bujias.webp",
+    precio:"56200",
+    marca:"BREMEN",
+    stock:"10",
+    proveedor:"Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+    descripcion:"Juego De Tubos Bocallaves Bremen 1-2 22 Piezas Saca Bujias",
+}
+{
+    articulo:"Pinza Pelacables Automatico Frontal Bremen Corta Cable 7725",
+    imagen:"img/Pinza Pelacables Automatico Frontal Bremen Corta Cable 7725.webp",
+    precio:"13000",
+    marca:"BREMEN",
+    stock:"25",
+    proveedor:"Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+    descripcion:"Pinza Pelacables Automatico Frontal Bremen Corta Cable 7725",
+    
+}
+{
+    articulo:"Telemetro Medidor De Distancia Laser Bremen 7028 40 Metros",
+    imagen:"img/Telemetro Medidor De Distancia Laser Bremen 7028 40 Metros.webp",
+    precio:"29000",
+    marca:"BREMEN",
+    stock:"100",
+    proveedor:"Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+    descripcion:"Telemetro Medidor De Distancia Laser Bremen 7028 40 Metros",
+}
+{
+    articulo:"Juego 6 Pinzas Bruselas Precisión Antiestaticas Bremen 7738",
+    imagen:"img/Juego 6 Pinzas Bruselas Precisión Antiestaticas Bremen 7738.webp",
+    precio:"5700",
+    marca:"BREMEN",
+    stock:"250",
+    proveedor:"Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+    descripcion:"Juego 6 Pinzas Bruselas Precisión Antiestaticas Bremen 7738",
+}
+
 ]
   
