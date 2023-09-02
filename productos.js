@@ -211,7 +211,7 @@ productos =[
 },
 {
     articulo:"Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura",
-    imagen:"",
+    imagen:"img/Bosch-pulverizador-de-pintura-el-ctrico-PFS-1000-sistema-de-pulverizaci-n-para-pintura-de-madera.webp",
     precio:"45599.00",
     marca:"BOSCH",
     stock:"3",
