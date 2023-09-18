@@ -2,7 +2,7 @@ productos =[
 { 
     articulo:   "Taladro Percutor 13mm 20V Brushless + 2 Baterías Y Maleta",
     imagen:     "https://ar.stanleytools.global/LAG/PRODUCT/IMAGES/HIRES/SBD715C2K-AR/SBD715C2K_K1.jpg?resize=530x530",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electrica",
     precio:     "176.800",
     marca:      "Stanley",
     stock:      "15",
@@ -12,7 +12,7 @@ productos =[
 {
     articulo:   "Kit Atornillador Inalambrico 3.6V + 138 Acc",
     imagen:     "https://ar.blackanddecker.global/LAG/PRODUCT/IMAGES/HIRES/BD7260-AR/BD7260_1.jpg?resize=530x530",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electrica",
     precio:     "57.260",
     marca:      "Black+Decker",
     stock:      "20",
@@ -22,7 +22,7 @@ productos =[
     {
     articulo:   "Sierra circular eléctrica de 7-1/4 @185mm",
     imagen:     "https://ar.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DWE560-AR/DWE560_1.jpg?resize=530x530",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electricaelectrica",
     precio:     "$179.999",
     marca:      "DeWalt",
     stock:      "6",
@@ -32,7 +32,7 @@ productos =[
     {
     artiulo:    "Remachadora accu GRG 18V-16 C",
     imagen:     "https://herramientabosch.com/5662-large_default/remachadora-accu-grg-18v-16-c.jpg",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electrica",
     precio:     "$352.577",
     marca:      "Bosch",
     stock:      "11",
@@ -42,7 +42,7 @@ productos =[
     {
     articulo:   "Laser de Linea Cruzada y Plomada PM 20-CG 12V",
     imagen:     "https://www.hilti.com.ar/medias/sys_master/images/hd6/h3c/9720872960030.jpg",
-    Categoria:  "Herramienta de precision",
+    Categoria:  "Herramienta_de_precision",
     precio:     "$228.300,80",
     marca:      "Hilti",
     stock:      "8",
@@ -52,7 +52,7 @@ productos =[
     {
     artiulo:    "Pistola de Calor Inalámbrica LXT 18 V",
     imagen:     "https://makita.com.ar/uploads/products/1660169113-91461.png",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electrica",
     precio:     "$133.084",
     marca:      "makita",
     stock:      "4",
@@ -62,7 +62,7 @@ productos =[
     {
     artiulo:    "Lijadora Orbital Skil 7232 200W",
     imagen:     "https://www.herramientasskil.com.ar/ar/es/ocsmedia/optimized/550/7232alta01(2).png",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electrica",
     precio:     "$27.015",
     marca:      "Skil",
     stock:      "6",
@@ -72,7 +72,7 @@ productos =[
 {
     articulo:   "Linterna de aluminio mini 2xaa",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/T/2/T207.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$1.500",
     marca:      "Black Jack Tools",
     stock:      "100",
@@ -82,7 +82,7 @@ productos =[
 {
     articulo:   "Linterna para cabeza con 12 leds",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/T/2/T208.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$3.900",
     marca:      "Black Jack Tools",
     stock:      "50",
@@ -92,7 +92,7 @@ productos =[
 {
     articulo:   "Escalera telescópica de aluminio 3,2 metros",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/W/0/W041.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$159.000",
     marca:      "Black Jack Tools",
     stock:      "25",
@@ -102,7 +102,7 @@ productos =[
 {
     articulo:   "Escalera telescópica de aluminio 2,6 metros",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/W/0/W040.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$116.000",
     marca:      "Black Jack Tools",
     stock:      "58",
@@ -112,7 +112,7 @@ productos =[
 {
     articulo:   "Martillo carpintero",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/G/0/G045.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$2.100",
     marca:      "Black Jack Tools",
     stock:      "184",
@@ -122,7 +122,7 @@ productos =[
 {
     articulo:   "Pico de loro 10 pulgadas",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/B/1/B125.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$4.025",
     marca:      "Black Jack Tools",
     stock:      "379",
@@ -132,7 +132,7 @@ productos =[
 {
     articulo:   "Llave combinada",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/B/6/B611.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$2.024",
     marca:      "Black Jack Tools",
     stock:      "273",
@@ -142,7 +142,7 @@ productos =[
 {
     articulo:   "Tester de voltaje digital",
     imagen:     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/T/8/T821.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "$3.795",
     marca:      "Black Jack Tools",
     stock:      "150",
@@ -152,7 +152,7 @@ productos =[
 {
     articulo:   "Hidrolavadora Lusqtoff Explosión Alta Presión Naftera 5.5hp",
     imagen:     "https://http2.mlstatic.com/D_NQ_NP_986698-MLA53565761904_022023-O.webp",
-    Categoria:  "Herramienta combustible",
+    Categoria:  "Herramienta_combustible",
     precio:     "$231.840",
     marca:      "Lüsqtoff",
     stock:      "3",
@@ -162,7 +162,7 @@ productos =[
 {
     articulo:   "Kit Juego De Tubos 1/2 Pulgada Criquet 18pzs Maletín Racing",
     imagen:     "https://http2.mlstatic.com/D_NQ_NP_992160-MLA69392540205_052023-O.webp",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "126.052,65",
     marca:      "Truper",
     stock:      "20",
@@ -172,7 +172,7 @@ productos =[
 {
     articulo:   "Serrucho De Costilla Diamante 14'' Mango Madera Truper 18166",
     imagen:     "https://http2.mlstatic.com/D_NQ_NP_975718-MLU70398284522_072023-O.webp",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "17.952,15",
     marca:      "Truper",
     stock:      "56",
@@ -183,7 +183,7 @@ productos =[
 {
     articulo:   "Manguera Riego Reforzada Trenzada 1/2 PuLG 13mm 100m Pretul",
     imagen:     "https://http2.mlstatic.com/D_NQ_NP_804318-MLA52764625984_122022-O.webp",
-    Categoria:  "Accesorio riego",
+    Categoria:  "Accesorio_riego",
     precio:     "61.911,50",
     marca:      "Pretul",
     stock:      "30",
@@ -194,7 +194,7 @@ productos =[
 {
     articulo:   "Carretilla Gigante Reforzada Plástica 300kg 120lts Neumática",
     imagen:     "https://http2.mlstatic.com/D_NQ_NP_924797-MLA69154181639_042023-O.webp",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "61.716,00",
     marca:      "Lüsqtoff",
     stock:      "18",
@@ -205,7 +205,7 @@ productos =[
 {
     articulo:   "Alicates-diagonales-de-acero-al-carbono-cortadores-de-cables-electricos-corte-lateral",
     imagen:     "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/a3dd6ce1c6d639f3f869c01755fd5907.jpg?imageMogr2/auto-orient%7CimageView2/2/w/1300/q/80/format/webp",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "560,00",
     marca:      "URANN",
     stock:      "50",
@@ -215,7 +215,7 @@ productos =[
 {
     articulo:   "aDEWALT DT71563 juego de brocas combinadas para carpintería, juego de herramientas mnual",
     imagen:     "https://dojiw2m9tvv09.cloudfront.net/53969/product/X_71fczifz2bl-_ac_sl1500_3692.jpg?59&time=1694779279",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "63.059,00",
     stock:      "10",
     marca:      "DEWALT",
@@ -225,7 +225,7 @@ productos =[
 {
     articulo:   "DEWALT-amoladora angular de 18V, máquina de corte inalámbrica con Motor sin escobillas",
     imagen:     "https://bourlot.com/1340-large_default/amoladora-inalambrica-18v-115-mm-4-1-2-dc411ka-dewalt.jpg",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electrica",
     precio:     "37.885,00",
     marca:      "DEWALT",
     stock:      "10",
@@ -235,7 +235,7 @@ productos =[
 {
     articulo:   "Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura",
     imagen:     "https://www.ferreteriamorcillo.com/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/B/O/BOS-0603207000.jpg",
-    Categoria:  "Herramienta electrica",
+    Categoria:  "Herramienta_electrica",
     precio:     "45.599,00",
     marca:      "BOSCH",
     stock:      "3",
@@ -245,7 +245,7 @@ productos =[
 {
     articulo:   "Makita-llave ajustable de bloqueo de B-65470, herramienta de llave de tubo de extremo abierto",
     imagen:     "https://www.elreyferretero.com/32518-medium_default/llave-de-presion-ajustable-perico-10-b-65470-makita-85330.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "3.560,00",
     marca:      "MAKITA",
     stock:      "6",
@@ -255,7 +255,7 @@ productos =[
 {
     articulo:   "Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker",
     imagen:     "https://static.martview.com/product/IMG-95Y16B3C/ic-extractor-pickup-bga-chip-picker-patch-ic-suck-pen-for-electronic-component-grabber-large.jpg",
-    Categoria:  "Herramienta de precision",
+    Categoria:  "Herramienta_de_precision",
     precio:     "1.450,00",
     marca:      "MORNYRAYMILKIWA",
     stock:      "50",
@@ -265,7 +265,7 @@ productos =[
 {
     articulo:   "Mandril para Taladro 1-2 pulgada-20Unf Pesado",
     imagen:     "https://bremenar.vtexassets.com/arquivos/ids/158285-800-auto?v=637998963752530000&width=800&height=auto&aspect=true",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "14.000,00",
     marca:      "BREMEN",
     stock:      "20",
@@ -275,7 +275,7 @@ productos =[
 {
     articulo:   "Bocallaves Alto Impacto Largas Juego 13 Pz Bremen",
     imagen:     "https://mundo-herramientas.com/wp-content/uploads/2019/10/boc-6566-bremen-juego-de-bocallaves-largas-para-impacto-13pzs_2.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "39.999,00",
     marca:      "BREMEN",
     stock:      "40",
@@ -285,7 +285,7 @@ productos =[
 {
     articulo:   "Juego De Tubos Bocallaves Bremen 1-2 22 Piezas Saca Bujias",
     imagen:     "https://acdn.mitiendanube.com/stores/001/546/946/products/d_nq_np_2x_940724-mla40228825140_122019-f1-46d5bbf523178c7b0416148688396714-480-0.webp",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "56.200",
     marca:      "BREMEN",
     stock:      "10",
@@ -295,7 +295,7 @@ productos =[
 {
     articulo:   "Pinza Pelacables Automatico Frontal Bremen Corta Cable 7725",
     imagen:     "https://www.sinergiaindustrial.com.ar/thumb/C5ECBDC91A4D4A66A4B06F01FDBB4B_800x800.jpg",
-    Categoria:  "Herramienta manual",
+    Categoria:  "Herramienta_manual",
     precio:     "13.000,00",
     marca:      "BREMEN",
     stock:      "25",
@@ -306,7 +306,7 @@ productos =[
 {
     articulo:   "Telemetro Medidor De Distancia Laser Bremen 7028 40 Metros",
     imagen:     "https://acdn.mitiendanube.com/stores/001/546/946/products/d_nq_np_760364-mla40228828594_122019-o1-5bb9f2d47728cedc7616148574743408-480-0.webp",
-    Categoria:  "Instumento de precision",
+    Categoria:  "Instumento_de_precision",
     precio:     "29.000,00",
     marca:      "BREMEN",
     stock:      "100",
@@ -316,7 +316,7 @@ productos =[
 {
     articulo:   "Juego 6 Pinzas Bruselas Precisión Antiestaticas Bremen 7738",
     imagen:     "https://bremenar.vtexassets.com/arquivos/ids/159268-600-auto?v=638089703825630000&width=600&height=auto&aspect=true",
-    Categoria:  "Herramienta manual de precision",
+    Categoria:  "Herramienta_manual_de_precision",
     precio:     "5.700,00",
     marca:      "BREMEN",
     stock:      "250",

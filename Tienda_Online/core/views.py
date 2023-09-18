@@ -3,13 +3,13 @@ from django.shortcuts import render
 
 # Create your views here.
 def index(request):
-    return render(request, "core/index.html", name=index)
+    return render(request, "index.html")
 
 def contact(request):
-    return render(request, "core/contact.html", name=contact)
+    return render(request, "contact.html")
 
 def details(request):
-    return render(request, "core/details.html", name=details)
+    return render(request, "details.html")
 
 
     
