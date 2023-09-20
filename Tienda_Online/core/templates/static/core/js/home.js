@@ -1,6 +1,6 @@
-from products import productos 
+//from products import productos 
 
-let data = productos [] 
+let data =[]
 
 async function fetchApi() {
     try{

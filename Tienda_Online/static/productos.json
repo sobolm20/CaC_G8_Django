@@ -1,0 +1,360 @@
+[
+    {
+        "id": 1,
+        "articulo": "Taladro Percutor 13mm 20V Brushless + 2 Baterías Y Maleta",
+        "imagen": "https://ar.stanleytools.global/LAG/PRODUCT/IMAGES/HIRES/SBD715C2K-AR/SBD715C2K_K1.jpg?resize=530x530",
+        "categoria": "Herramienta_electrica",
+        "precio": "176.800",
+        "marca": "Stanley",
+        "stock": "15",
+        "proveedor": "Maquinarias Boedo - Av. Boedo 1095, C1239 CABA ARGENTINA - Teléfono: 011 4957-6741 - ventas@maquinariasboedo.com - alquiler@maquinariasboedo.com - www.maquinariasboedo.com",
+        "descripcion": "Incluye Taladro Atornillador Percutor SBD715C2K - 2 Baterías 20V 1.5Ah - Cargador - Maletín"
+      },
+      {
+        "id": 2,
+        "articulo": "Kit Atornillador Inalambrico 3.6V + 138 Acc",
+        "imagen": "https://ar.blackanddecker.global/LAG/PRODUCT/IMAGES/HIRES/BD7260-AR/BD7260_1.jpg?resize=530x530",
+        "categoria": "Herramienta_electrica",
+        "precio": "57.260",
+        "marca": "Black+Decker",
+        "stock": "20",
+        "proveedor": "BLACK Y DECKER ARGENTINA S A - Dirección:COLEC DE PANAMERICANA 32 / EL TALAR / 1618-BUENOS AIRES",
+        "descripcion": "Embrague de 24 posiciones que evita que los tornillos se dañen"
+      },
+      {
+        "id": 3,
+        "articulo": "Sierra circular eléctrica de 7-1/4 @185mm",
+        "imagen": "https://ar.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DWE560-AR/DWE560_1.jpg?resize=530x530",
+        "categoria": "Herramienta_electrica",
+        "precio": "$179.999",
+        "marca": "DeWalt",
+        "stock": "6",
+        "proveedor": "Wacker Herramientas – Nuestra Sra. De Loreto 2373 – Villa Raffo – Bs As – Tel 011 4757-9555",
+        "descripcion": "Potente motor de 1400 Watts"
+      },
+      {
+        "id": 4,
+        "articulo": "Remachadora accu GRG 18V-16 C",
+        "imagen": "https://herramientabosch.com/5662-large_default/remachadora-accu-grg-18v-16-c.jpg",
+        "categoria": "Herramienta_electrica",
+        "precio": "$352.577",
+        "marca": "Bosch",
+        "stock": "11",
+        "proveedor": "Robert Bosch Argentina Industrial S.A - Mail: contacto@ar.bosch.com - Teléfono: 0800-4444-26724",
+        "descripcion": "Permite colocar remaches ciegos de 3,0 mm a 6,4 mm con una sola herramienta"
+      },
+      {
+        "id": 5,
+        "articulo": "Laser de Linea Cruzada y Plomada PM 20-CG 12V",
+        "imagen": "https://www.hilti.com.ar/medias/sys_master/images/hd6/h3c/9720872960030.jpg",
+        "categoria": "Herramienta_de_precision",
+        "precio": "$228.300,80",
+        "marca": "Hilti",
+        "stock": "8",
+        "proveedor": "LOCAL HILTI VICENTE LOPEZ - Av. Maipú 1773, Vicente Lopez 1638 Buenos Aires – Tel 0800 44 44584 - E-mail: arservicio_clientes@hilti.com",
+        "descripcion": "Láser combinado de luz verde con 2 líneas y 5 puntos para tareas de plomada, nivelado, alineaciones y cálculos de escuadras (plataforma de herramientas a batería de 12 V)"
+      },
+      {
+        "id": 6,
+        "articulo": "Pistola de Calor Inalámbrica LXT 18 V",
+        "imagen": "https://makita.com.ar/uploads/products/1660169113-91461.png",
+        "categoria": "Herramienta_electrica",
+        "precio": "$133.084",
+        "marca": "makita",
+        "stock": "4",
+        "proveedor": "buloneraburzaco  -  Av. Monteverde 4184, Burzaco, Buenos Aires - Email: buloneraburzaco@hotmail.com  - Teléfono: +54 11 4299-8585 WhatsApp: +54 11 2685-8585",
+        "descripcion": "Salida Máxima 10 W -Temperatura de Aire: Dial 1: Temperatura ambiente | Dial 2: 150°C | Dial 3 : 250? | Dial 4: 350? | Dial 5: 450? | Dial 6: 550"
+      },
+      {
+        "id": 7,
+        "articulo": "Lijadora Orbital Skil 7232 200W",
+        "imagen": "https://www.herramientasskil.com.ar/ar/es/ocsmedia/optimized/550/7232alta01(2).png",
+        "categoria": "Herramienta_electrica",
+        "precio": "$27.015",
+        "marca": "Skil",
+        "stock": "6",
+        "proveedor": "Robert Bosch Argentina Industrial S.A - Mail: contacto@ar.bosch.com - Teléfono: 0800-4444-26724",
+        "descripcion": "Lijadora Orbital de Palma Skil 7232, con 200 W de potencia y 14000 oscilaciones por minuto es la combi-ción de rendimiento y comodidad que cabe en la palma de su mano"
+      },
+      {
+        "id": 8,
+        "articulo": "Linterna de aluminio mini 2xAA",
+        "imagen": "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/T/2/T207.jpg",
+        "categoria": "Herramienta_de_precision",
+        "precio": "$763",
+        "marca": "Black Jack",
+        "stock": "12",
+        "proveedor": "BLACK JACK SOLUTIONS SAIL - Email: Info@blackjack chairman.com.ar Teléfono: 011 5296 6250 / 011 6976 3540",
+        "descripcion": "Linterna atex portátil con cuerpo de alumin; 130.00 mm de longitud; 2 $xaa"
+      },
+    {
+        "id": 9,
+        "articulo":   "Linterna para cabeza con 12 leds",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/T/2/T208.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "$3.900",
+        "marca":      "Black Jack Tools",
+        "stock":      "50",
+        "proveedor":  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
+        "descripcion": "Linterna Black Jack con sujetador de cabeza LED. - LED super brillo. - Cómoda cinta ajustable. - 4 funciones: 4, 8, 12 LEDS. - Función intermitente."
+    },
+    {
+        "id": 10,
+        "articulo":   "Escalera telescópica de aluminio 3,2 metros",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/W/0/W041.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "$159.000",
+        "marca":      "Black Jack Tools",
+        "stock":      "25",
+        "proveedor":  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
+        "descripcion": "Escalera telescópica de aluminio 3,2 metros Black Jack - 11 escalones - CERRADA: 67 CM - SOPORTA HASTA 150 KG"
+    },
+    {
+        "id": 11,
+        "articulo":   "Escalera telescópica de aluminio 2,6 metros",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/W/0/W040.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "$116.000",
+        "marca":      "Black Jack Tools",
+        "stock":      "58",
+        "proveedor":  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
+        "descripcion": "Escalera de aluminio extensible 5.44 metros Black Jack -5,44 METROS ABIERTA -2,25 METROS CERRADA -3 TRAMOS -FACIL DE MONTAR, DESMONTAR Y TRANSPORTAR -ZAPATA DE GOMA ANTIDESLIZANTE"
+    },
+    {
+        "id": 12,
+        "articulo":   "Martillo carpintero",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/G/0/G045.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "$2.100",
+        "marca":      "Black Jack Tools",
+        "stock":      "184",
+        "proveedor":  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
+        "descripcion": "Peso del martillo 250g - Material de la manija: Madera"
+    },
+    {
+        "id": 13,
+        "articulo":   "Pico de loro 10 pulgadas",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/B/1/B125.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "$4.025",
+        "marca":      "Black Jack Tools",
+        "stock":      "379",
+        "proveedor":  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
+        "descripcion": "Pico de loro Black Jack de 10 pulgadas. - DOBLE AISLACION - MANGO ERGONOMICO - CROMO VANADIO - CALIDAD DE POR VIDA"
+    },
+    {
+        "id": 15,
+        "articulo":   "Llave combinada",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/B/6/B611.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "$2.024",
+        "marca":      "Black Jack Tools",
+        "stock":      "273",
+        "proveedor":  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
+        "descripcion": "LLAVE COMBINADA BLACK JACK 15 MM - CROMO VANADIO - GARANTIA DE POR VIDA"
+    },
+    {
+        "id": 16,
+        "articulo":   "Tester de voltaje digital",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/T/8/T821.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "$3.795",
+        "marca":      "Black Jack Tools",
+        "stock":      "150",
+        "proveedor":  "Black Jack Tools - Monteagudo 216 (1437) CABA, Argentina. - Teléfono:  (011) 5091-9100 Fax Gratuito:  0800-666-1927 - ventas@extrapowersa.com.ar - https://www.blackjacktools.com.ar",  
+        "descripcion": "Tester Voltaje Digital Buscapolo H 500 V"
+    },
+    {
+        "id": 17,
+        "articulo":   "Hidrolavadora Lusqtoff Explosión Alta Presión Naftera 5.5hp",
+        "imagen":     "https://http2.mlstatic.com/D_NQ_NP_986698-MLA53565761904_022023-O.webp",
+        "categoria":  "Herramienta_combustible",
+        "precio":     "$231.840",
+        "marca":      "Lüsqtoff",
+        "stock":      "3",
+        "proveedor":  "FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+        "descripcion":"Su rocio agua de alta presion es entre diez y cincuenta veces mas potente, lo que hace mas eficaz y facil el proceso de limpieza."
+    },
+    {
+        "id": 18,
+        "articulo":   "Kit Juego De Tubos 1/2 Pulgada Criquet 18pzs Maletín Racing",
+        "imagen":     "https://http2.mlstatic.com/D_NQ_NP_992160-MLA69392540205_052023-O.webp",
+        "categoria":  "Herramienta_manual",
+        "precio":     "126.052,65",
+        "marca":      "Truper",
+        "stock":      "20",
+        "proveedor":  "FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+        "descripcion":"Dados en acero al cromo vanadio. Estuche metalico con espuma que protege y mantiene organizadas las herramientas"
+    },
+    {
+        "id": 19,
+        "articulo":   "Serrucho De Costilla Diamante 14'' Mango Madera Truper 18166",
+        "imagen":     "https://http2.mlstatic.com/D_NQ_NP_975718-MLU70398284522_072023-O.webp",
+        "categoria":  "Herramienta_manual",
+        "precio":     "17.952,15",
+        "marca":      "Truper",
+        "stock":      "56",
+        "proveedor":  "FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+        "descripcion":"El modelo STCX-14 es conocido por su durabilidad y resistencia, garantizando un rendimiento excepcional en cada uso. Ideal para aquellos que buscan calidad y eficiencia en sus herramientas."
+    
+    },
+    {
+        "id": 20,
+        "articulo":   "Manguera Riego Reforzada Trenzada 1/2 PuLG 13mm 100m Pretul",
+        "imagen":     "https://http2.mlstatic.com/D_NQ_NP_804318-MLA52764625984_122022-O.webp",
+        "categoria":  "Accesorio_riego",
+        "precio":     "61.911,50",
+        "marca":      "Pretul",
+        "stock":      "30",
+        "proveedor":  "FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+        "descripcion":"Pretul Manguera Reforzada 1/2 X 100 Mts"
+    
+    },
+    {
+        "id": 21,
+        "articulo":   "Carretilla Gigante Reforzada Plástica 300kg 120lts Neumática",
+        "imagen":     "https://http2.mlstatic.com/D_NQ_NP_924797-MLA69154181639_042023-O.webp",
+        "categoria":  "Herramienta_manual",
+        "precio":     "61.716,00",
+        "marca":      "Lüsqtoff",
+        "stock":      "18",
+        "proveedor":  "FERRETERIA JE-AV. Hipolito Yrigoyen 20013 Glew Buenos Aires",
+        "descripcion":"Garden Plus CRGP120-8 capacidad 120 litros"
+    
+    },
+    {
+        "id": 22,
+        "articulo":   "Alicates-diagonales-de-acero-al-carbono-cortadores-de-cables-electricos-corte-lateral",
+        "imagen":     "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/a3dd6ce1c6d639f3f869c01755fd5907.jpg?imageMogr2/auto-orient%7CimageView2/2/w/1300/q/80/format/webp",
+        "categoria":  "Herramienta_manual",
+        "precio":     "560,00",
+        "marca":      "URANN",
+        "stock":      "50",
+        "proveedor":  "El tornillo loco-Calle Manzana No 9374- Harrenhall",
+        "descripcion":"URANN Alicates-diagonales-de-acero-al-carbono"
+    },
+    {
+        "id": 23,
+        "articulo":   "aDEWALT DT71563 juego de brocas combinadas para carpintería, juego de herramientas mnual",
+        "imagen":     "https://dojiw2m9tvv09.cloudfront.net/53969/product/X_71fczifz2bl-_ac_sl1500_3692.jpg?59&time=1694779279",
+        "categoria":  "Herramienta_manual",
+        "precio":     "63.059,00",
+        "stock":      "10",
+        "marca":      "DEWALT",
+        "proveedor":  "El tornillo loco-Calle Manzana No 9374- Harrenhall",
+        "descripcion":"DEWALT DT71563 juego de brocas combinadas para carpintería"
+    },
+    {
+        "id": 24,
+        "articulo":   "DEWALT-amoladora angular de 18V, máquina de corte inalámbrica con Motor sin escobillas",
+        "imagen":     "https://bourlot.com/1340-large_default/amoladora-inalambrica-18v-115-mm-4-1-2-dc411ka-dewalt.jpg",
+        "categoria":  "Herramienta_electrica",
+        "precio":     "37.885,00",
+        "marca":      "DEWALT",
+        "stock":      "10",
+        "proveedor":  "El tornillo loco-Calle Manzana No 9374- Harrenhall",
+        "descripcion":"DEWALT-amoladora angular de 18V, máquina de corte inalámbrica con Motor sin escobillas"
+    },
+    {
+        "id": 25,
+        "articulo":   "Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura",
+        "imagen":     "https://www.ferreteriamorcillo.com/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/B/O/BOS-0603207000.jpg",
+        "categoria":  "Herramienta_electrica",
+        "precio":     "45.599,00",
+        "marca":      "BOSCH",
+        "stock":      "3",
+        "proveedor":  "El tornillo loco-Calle Manzana No 9374- Harrenhall",
+        "descripcion":"Bosch-pulverizador de pintura eléctrico PFS 1000, sistema de pulverización para pintura"
+    },
+    {
+        "id": 26,
+        "articulo":   "Makita-llave ajustable de bloqueo de B-65470, herramienta de llave de tubo de extremo abierto",
+        "imagen":     "https://www.elreyferretero.com/32518-medium_default/llave-de-presion-ajustable-perico-10-b-65470-makita-85330.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "3.560,00",
+        "marca":      "MAKITA",
+        "stock":      "6",
+        "proveedor":  "El tornillo loco-Calle Manzana No 9374- Harrenhall",
+        "descripcion":"Makita llave ajustable de bloqueo de B-65470, llave de tubo de extremo abierto"
+    },
+    {
+        "id": 27,
+        "articulo":   "Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker",
+        "imagen":     "https://static.martview.com/product/IMG-95Y16B3C/ic-extractor-pickup-bga-chip-picker-patch-ic-suck-pen-for-electronic-component-grabber-large.jpg",
+        "categoria":  "Herramienta_de_precision",
+        "precio":     "1.450,00",
+        "marca":      "MORNYRAYMILKIWA",
+        "stock":      "50",
+        "proveedor":  "El tornillo loco-Calle Manzana No 9374- Harrenhall",
+        "descripcion":"Extractor-IC-de-cuatro-garras-componente-electr-nico-Grabber-IC-Pickup-BGA-Chip-Picker"
+    },
+    {
+        "id": 28,
+        "articulo":   "Mandril para Taladro 1-2 pulgada-20Unf Pesado",
+        "imagen":     "https://bremenar.vtexassets.com/arquivos/ids/158285-800-auto?v=637998963752530000&width=800&height=auto&aspect=true",
+        "categoria":  "Herramienta_manual",
+        "precio":     "14.000,00",
+        "marca":      "BREMEN",
+        "stock":      "20",
+        "proveedor":  "Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+        "descripcion":"Mandril para Taladro 1-2 pulgada-20Unf Pesado"
+    },
+    {
+        "id": 29,
+        "articulo":   "Bocallaves Alto Impacto Largas Juego 13 Pz Bremen",
+        "imagen":     "https://mundo-herramientas.com/wp-content/uploads/2019/10/boc-6566-bremen-juego-de-bocallaves-largas-para-impacto-13pzs_2.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "39.999,00",
+        "marca":      "BREMEN",
+        "stock":      "40",
+        "proveedor":  "Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+        "descripcion":"Bocallaves Alto Impacto Largas Juego 13 Pz Bremen"
+    },
+    {
+        "id": 30,
+        "articulo":   "Juego De Tubos Bocallaves Bremen 1-2 22 Piezas Saca Bujias",
+        "imagen":     "https://acdn.mitiendanube.com/stores/001/546/946/products/d_nq_np_2x_940724-mla40228825140_122019-f1-46d5bbf523178c7b0416148688396714-480-0.webp",
+        "categoria":  "Herramienta_manual",
+        "precio":     "56.200",
+        "marca":      "BREMEN",
+        "stock":      "10",
+        "proveedor":  "Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+        "descripcion":"Juego De Tubos Bocallaves Bremen 1-2 22 Piezas Saca Bujias"
+    },
+    {
+        "id": 31,
+        "articulo":   "Pinza Pelacables Automatico Frontal Bremen Corta Cable 7725",
+        "imagen":     "https://www.sinergiaindustrial.com.ar/thumb/C5ECBDC91A4D4A66A4B06F01FDBB4B_800x800.jpg",
+        "categoria":  "Herramienta_manual",
+        "precio":     "13.000,00",
+        "marca":      "BREMEN",
+        "stock":      "25",
+        "proveedor":  "Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+        "descripcion":"Pinza Pelacables Automatico Frontal Bremen Corta Cable 7725"
+        
+    },
+    {
+        "id": 32,
+        "articulo":   "Telemetro Medidor De Distancia Laser Bremen 7028 40 Metros",
+        "imagen":     "https://acdn.mitiendanube.com/stores/001/546/946/products/d_nq_np_760364-mla40228828594_122019-o1-5bb9f2d47728cedc7616148574743408-480-0.webp",
+        "categoria":  "Herramienta_de_precision",
+        "precio":     "29.000,00",
+        "marca":      "BREMEN",
+        "stock":      "100",
+        "proveedor":  "Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+        "descripcion":"Telemetro Medidor De Distancia Laser Bremen 7028 40 Metros"
+    },
+    {
+        "id": 33,
+        "articulo":   "Juego 6 Pinzas Bruselas Precisión Antiestaticas Bremen 7738",
+        "imagen":     "https://bremenar.vtexassets.com/arquivos/ids/159268-600-auto?v=638089703825630000&width=600&height=auto&aspect=true",
+        "categoria":  "Herramienta_de_precision",
+        "precio":     "5.700,00",
+        "marca":      "BREMEN",
+        "stock":      "250",
+        "proveedor":  "Bremen Tools Argentina - Av. Gral. Juan Domingo Perón 4749, B1621 Benavidez, Buenos Aires",
+        "descripcion":"Juego 6 Pinzas Bruselas Precisión Antiestaticas Bremen 7738"
+    }
+    ]
+      
+    
