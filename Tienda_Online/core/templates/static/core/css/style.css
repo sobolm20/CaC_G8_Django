@@ -23,6 +23,13 @@ body, header, main, footer {
     text-align: center;
 }
 
+#details-btn{
+    border-radius: 5px;
+    background-color: #0d2033;
+    color:white;
+    border:1px solid white;
+}
+
 .productosHome{
     border: 1px solid white;
     display: flex;
