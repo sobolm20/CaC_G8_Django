@@ -7,9 +7,9 @@ async function fetchApi() {
         let urlApi = data
         let fetchResponse = await fetch(urlApi)
         let response = await fetchResponse.json()
-        productos = [...response.meals]
+        productos = [...response.prods]
         console.log(productos);
-        printCards('allprods',response.meals)
+        printCards('allprods',...response.prods)
         return response
     } catch(error){
         console.log(error);

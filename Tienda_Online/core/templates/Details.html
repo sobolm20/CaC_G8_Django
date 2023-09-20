@@ -5,6 +5,35 @@
 {% block imgheader %}{% endblock imgheader %}
 {% block content %}
 
+<h1>Detalles del Producto</h1>
+
+<section id="productosHome" class="productosHome">
+{% if producto %}
+
+        <article class="productItem">
+                <h2>{{producto.articulo }}</h2>
+                <figure>
+                <img src={{producto.imagen}}>
+                </figure>
+                <p>
+                    <ul>
+                        <li><h3>{{producto.marca}}</h3></li>
+                        <li>{{producto.descripcion}}</li>
+                        <li><h4>{{producto.precio}}</h4></li>
+                        
+                        <a href="{% url 'details' producto.id %}">
+                            
+                        </a>
+                    </ul>
+                </p>
+        </article>
+        {% else %}
+        <p>Producto no encontrado</p>
+        {% endif %}
+            
+
+</section>
+
 <section class="container d-flex flex-grow-1">
     <div class="" id=''>
     </div>    
