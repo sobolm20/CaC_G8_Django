@@ -4,5 +4,5 @@ from core import views
 urlpatterns = [
     path('', views.index, name='index'),
     path('contact', views.contact, name='contact'),
-    path('details', views.details, name='details'),
+    path('details/<int:anio>', views.details, name='details'),
 ]
