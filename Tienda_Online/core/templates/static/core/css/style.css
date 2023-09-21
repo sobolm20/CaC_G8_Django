@@ -29,6 +29,10 @@ body, header, main, footer {
     color:white;
     border:1px solid white;
 }
+#details-btn:hover{
+    background-color: white;
+    color:#0d2033
+}
 
 .productosHome{
     border: 1px solid white;
