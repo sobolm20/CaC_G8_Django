@@ -7,12 +7,64 @@
 body, header, main, footer {
     border: 1px white solid;
     background-color: black;
+    color: white;
 }
 
 .container-box{
     min-height: 5vh;
     display: flex;
     flex-direction: column;
+}
+
+#content{
+    width: 100%;
+}
+#content h1{
+    text-align: center;
+}
+
+#details-btn{
+    border-radius: 5px;
+    background-color: #0d2033;
+    color:white;
+    border:1px solid white;
+}
+
+.productosHome{
+    border: 1px solid white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.productItem{
+    width: 30%;
+    color:white;
+    margin: 0 auto;
+    border-bottom: 5px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.productItem figure{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+ul{
+    list-style-type: none;
+}
+.articleP{
+    display: flex;
+    flex-direction: column;
+}
+
+.productItem img{
+    width: 60%;
+    border-radius: 5%;
 }
 
 @media screen and (max-width: 300px) {

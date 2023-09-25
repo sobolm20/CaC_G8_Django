@@ -7,13 +7,15 @@ import json
 def index(request):
     with open('static/productos.json','r',encoding='utf-8') as json_file:
         productos=json.load(json_file)
+
     # Extraer todas las categorías únicas de los productos
         categorias = set(producto['categoria'] for producto in productos)
-        return render(request, "index.html", {'productos':productos,'categorias':categorias})
 
+        return render(request, "index.html", {'productos':productos,'categorias':categorias})
 
 def contact(request):
     return render(request, "contact.html")
+
 
 
 def details(request, producto_id):
@@ -36,5 +38,3 @@ def details(request, producto_id):
         raise Http404("Producto no encontrado")
     
     return render(request, 'Details.html', {'producto': producto})
-
-    
