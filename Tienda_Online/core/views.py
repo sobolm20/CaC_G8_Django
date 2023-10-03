@@ -1,6 +1,7 @@
 from django.shortcuts import render
-from django.http import Http404
+from django.http import Http404, HttpResponseBadRequest
 import json
+from core.forms import ContactForm
 
 
 # Create your views here.
@@ -14,7 +15,22 @@ def index(request):
         return render(request, "index.html", {'productos':productos,'categorias':categorias})
 
 def contact(request):
-    return render(request, "contact.html")
+    if request.method == "GET":
+        formulario_contacto = ContactForm()
+        respuesta=""
+    elif request.method == "POST":
+        formulario_contacto = ContactForm(request.POST)
+        respuesta=f"Mensaje recibido. Agradecemos su consulta."
+    else:
+        return HttpResponseBadRequest ("Método no correcto")
+    
+    contexto={
+        'respuesta': respuesta,
+        'formulario': formulario_contacto,
+    }
+        
+        
+    return render(request, "contact.html", contexto)
 
 
 

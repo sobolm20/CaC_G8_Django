@@ -6,14 +6,25 @@
 
 body, header, main, footer {
     border: 1px white solid;
-    background-color: black;
+    background-color: rgb(29, 60, 107);
     color: white;
+}
+
+header{
+    display: flex;
+    min-height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+
 }
 
 .container-box{
     min-height: 5vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
+
 }
 
 #content{
@@ -77,9 +88,12 @@ ul{
 #logo {
     width: 150px;
     height: 150px;
-    border-radius: 90%;
-    float: left;
+    border-radius: 90%;    
     object-fit: cover;
+    margin: 20px;
+    
+    display: flex;
+    align-items: center;
 }
 
 #subtitulo {
@@ -114,7 +128,7 @@ ul{
     width: 120px;
     height: 40px;
     padding: 8px;
-    background-color: rgb(98, 98, 97);
+    background-color: rgb(211, 116, 7);
     text-decoration: none;
     text-align: center;
     font-weight: 700;
@@ -124,7 +138,7 @@ ul{
 .header-menu ul li a {
     list-style-type: none;
     padding: 8px;
-    background-color: rgb(98, 98, 97);
+    background-color: rgb(211,116,7);
     color: white;
     text-decoration: none;
     text-align: center;
