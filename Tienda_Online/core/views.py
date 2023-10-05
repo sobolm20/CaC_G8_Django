@@ -1,5 +1,6 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import Http404, HttpResponseBadRequest
+from django.urls import reverse
 import json
 from core.forms import ContactForm
 
@@ -17,15 +18,17 @@ def index(request):
 def contact(request):
     if request.method == "GET":
         formulario_contacto = ContactForm()
-        respuesta=""
+        # respuesta=""
     elif request.method == "POST":
         formulario_contacto = ContactForm(request.POST)
-        respuesta=f"Mensaje recibido. Agradecemos su consulta."
+        if formulario_contacto.is_valid():
+            # respuesta=f"Mensaje recibido. Agradecemos su consulta."
+            return redirect(reverse('index'))
     else:
         return HttpResponseBadRequest ("Método no correcto")
     
     contexto={
-        'respuesta': respuesta,
+        # 'respuesta': respuesta,
         'formulario': formulario_contacto,
     }
         
