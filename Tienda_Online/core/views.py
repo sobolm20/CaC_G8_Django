@@ -35,6 +35,8 @@ def contact(request):
         
     return render(request, "contact.html", contexto)
 
+def contact2(request):
+    return render(request, "contact2.html")
 
 
 def details(request, producto_id):
