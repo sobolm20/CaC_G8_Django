@@ -60,3 +60,5 @@ def details(request, producto_id):
     
     return render(request, 'Details.html', {'producto': producto})
 
+def nosotros(request):
+    return render(request, 'Nosotros.html')
