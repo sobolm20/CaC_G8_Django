@@ -1,0 +1,21 @@
+
+
+No arme el form  ni la pagina porque porque no se si queiren armarlo basado en clases o como estan los anteriores
+
+
+Les dejo el  listado armado  para instanciar los proveedores desde el shell plus 
+
+
+('Maquinarias Boedo ','Av. Boedo 1095','CABA ARGENTINA','011 4957 6741','ventas@maquinariasboedo.com,alquiler@maquinariasboedo.com');
+('BLACK Y DECKER ARGENTINA S A ','COLEC DE PANAMERICANA 32 ','EL TALAR,BUENOS AIRES','011 6166 2302 ','blackanddeckerarg@blackanddecker.com');
+('Wacker Herramientas ','Nuestra Sra. De Loreto 2373 ','Villa Raffo , Bs As','011 4757 9555 ','ventas@wacker.com.ar');
+('Robert Bosch Argentina Industrial S.A ','J.M.Bosch 7777 ','Villa Bosch, Tres de Febero','0800 4444 26724','contacto@ar.bosch.com');
+('LOCAL HILTI VICENTE LOPEZ ','Av. Maipú 1773 ','Vicente Lopez,Buenos Aires','0800 44 44584','arservicio_clientes@hilti.com');
+('buloneraburzaco  ','Av. Monteverde 4184 ','Burzaco, Buenos Aires','011 4299 8585 WhatsApp: +54 11 2685 8585','buloneraburzaco@hotmail.com');
+('BLACK JACK SOLUTIONS SAIL ','El Hornero 1000 ','Hurlingham, Buenos Aires','011 5296 6250 / 011 6976 3540','Info@blackjackchairman.com.ar');
+('Black Jack Tools ','Monteagudo 216 ','CABA, Argentina','(011) 5091 9100 Fax Gratuito:  08006661927','ventas@extrapowersa.com.ar  https://www.blackjacktools.com.ar');
+('FERRETERIA JE ','Av. Hipolito Yrigoyen 20013  ','Glew, Buenos Aires','011 24298 5555','ferreteriaje@gmil.com');
+('El tornillo loco ','Calle Manzana No 9374 ','Harrenhall','0800 222 4568','crazytorn@euromail.com');
+('Bremen Tools Argentina ','Av. Gral. Juan Domingo Perón 4749 ','Benavidez, Buenos Aires','011 4741 0000','ventas@brementool.ar');
+
+
