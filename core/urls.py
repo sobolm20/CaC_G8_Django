@@ -7,4 +7,5 @@ urlpatterns = [
     path('respForm', views.respForm, name='respForm'),
     path('details/<int:producto_id>', views.details, name='details'),
     path('nosotros', views.nosotros, name='nosotros'),
+    path('loged_out', views.loged_out, name='loged_out'),
 ]

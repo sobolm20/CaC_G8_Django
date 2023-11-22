@@ -5,8 +5,12 @@ from django.http import HttpRequest
 from .models import Cliente, Producto, Categoria
 from django.urls import reverse_lazy #Aca utilizamos reverse_lazy porque como estamos consultando en la BDD, solo la llamaremos cuando este todo listo cargado y validado. 
 from .forms import ProductoForm
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth.mixins import LoginRequiredMixin
+
 
 # Create your views here.
+@login_required(login_url="login")
 def indexG(request):
     return render(request, "gerencia\indexGerencia.html")
 
@@ -67,8 +71,8 @@ class ProductoUpdateView(UpdateView):
     form_class = ProductoForm
     template_name = 'gerencia/productos/editar_producto.html'
     success_url = reverse_lazy('producto_index')
-
-class ProductoDeleteView(DeleteView):
+    
+class ProductoDeleteView(LoginRequiredMixin, DeleteView):
     model = Producto
     template_name = 'gerencia/productos/eliminar_producto.html'
     success_url = reverse_lazy('producto_index')
@@ -91,7 +95,7 @@ class CategoriaUpdateView(UpdateView):
     fields = ['nombre']
     success_url = reverse_lazy('lista_categorias')
 
-class CategoriaDeleteView(DeleteView):
+class CategoriaDeleteView(LoginRequiredMixin, DeleteView):
     model = Categoria
     template_name = 'gerencia/categoria/eliminar_categoria.html'
     success_url = reverse_lazy('lista_categorias')

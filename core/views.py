@@ -67,3 +67,5 @@ def details(request, producto_id):
     
     return render(request, 'Details.html', {'producto': producto})
 
+def loged_out(request):
+    return render(request, 'registration/loged_out.html')
