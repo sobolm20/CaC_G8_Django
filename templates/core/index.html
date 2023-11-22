@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form method="GET" action="{% url 'index' %}">
+    {% comment %} <label for="categoria">Filtrar por categoría:</label><br>
+    {% for categoria in categorias %}
+        <input type="radio" name="categoria" id="{{ categoria }}" value="{{ categoria }}">
+        <label for="{{ categoria }}">{{ categoria }}</label><br>
+    {% endfor %}
+    <input type="submit" value="Filtrar"> {% endcomment %}
+</form>
+
+<div id="content">
+    <h1>Lista de Productos</h1>
+    <section id="productosHome" class="productosHome">
+            {% for producto in productos %}
+                <article class="productItem">
+                        <h2>{{producto.articulo }}</h2>
+                        <figure>
+                        <img src={{producto.imagen}}>
+                        </figure>
+                        <p>
+                            <ul>
+                                <li><h3>{{producto.marca}}</h3></li>
+                                <li>{{producto.descripcion}}</li>
+                                <li><h4>{{producto.precio}}</h4></li>
+                                
+                                <a href="{% url 'details' producto.id %}">
+                                    <button id="details-btn">Ver detalles</button>
+                                </a>
+                            </ul>
+                        </p>
+                </article>
+                    <!-- Aquí ira filtro -->
+                {% endfor %}
+    </section>
+</div>
+{% endblock %}

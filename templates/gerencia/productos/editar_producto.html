@@ -1,0 +1,13 @@
+{% extends 'gerencia/baseG.html' %}
+{% block title %}- Editar Producto{% endblock  %}
+{% block content %}
+  <h2>Editar Producto</h2>
+  
+  <form method="post" action="{% url 'editarProducto' producto.id %}" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Guardar Cambios</button>
+  </form>
+
+  <a href="{% url 'producto_index' %}" class="btn btn-secondary">Volver a la Lista de Productos</a>
+{% endblock %}

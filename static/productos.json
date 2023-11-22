@@ -143,6 +143,17 @@
         "descripcion": "Pico de loro Black Jack de 10 pulgadas. - DOBLE AISLACION - MANGO ERGONOMICO - CROMO VANADIO - CALIDAD DE POR VIDA"
     },
     {
+        "id": 14,
+        "articulo":   "Compresor De Aire Portatil Total Doble Pistón",
+        "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/B/1/B125.jpg",
+        "categoria":  "HHerramienta_electrica",
+        "precio":     "$84.025",
+        "marca":      "Total Tools",
+        "stock":      "37",
+        "proveedor":  "Total One Shop - Av. del Libertador 1195 Vicente López Buenos Aires, Argentina. - Teléfono:  (011) 3220-2885 - info@totalherramientas.com.ar",  
+        "descripcion": "Compresor Inflador 12V a 13.5V Total Tools TTAC2506 2 Cilindros Doble Pistón Presión Máxima 10 Bar 120 PSI Caudal Máximo 45 Litros Por Minuto"
+    },
+    {
         "id": 15,
         "articulo":   "Llave combinada",
         "imagen":     "https://www.blackjacktools.com.ar/media/catalog/product/cache/8/image/480x620/9df78eab33525d08d6e5fb8d27136e95/B/6/B611.jpg",

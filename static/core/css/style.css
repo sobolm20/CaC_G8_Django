@@ -364,7 +364,10 @@ Footer
 
 .pie-pagina{
     width: 100%;
-    background-color: #0a141d;
+    /*background-color: #0a141d;*/
+    background-image: url('core/img/foote.jpg'); /* Cambia 'tu_ruta' por la ruta correcta de tu imagen */
+    background-size: cover;
+    color: white;
 }
 .pie-pagina .grupo-1{
     width: 100%;

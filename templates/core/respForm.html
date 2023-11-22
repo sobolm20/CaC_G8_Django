@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block header %}{% endblock header %}
+{% block imgheader %}{% endblock imgheader %}
+{% block content %}
+
+<META HTTP-EQUIV="REFRESH" CONTENT=8;URL={% url 'index' %}>
+
+
+<section class="productItem">
+    <h3>Muchas gracias!! Recibimos tus datos de contacto </h3>
+    <h5>En breve recibiras un mail para terminar con el alta de usuario</h5>
+</section>
+<script>
+    setTimeout(function () {
+        window.location.href = "{% url 'index' %}";
+    }, 5000);  // 5000 milisegundos = 5 segundos
+</script>
+
+
+{% endblock content %}
+{% block pielink %}
+
+{% endblock pielink %}

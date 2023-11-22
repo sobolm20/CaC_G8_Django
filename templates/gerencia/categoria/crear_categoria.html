@@ -1,0 +1,11 @@
+<!-- crear_categoria.html -->
+{% extends 'gerencia/baseG.html' %}
+{% block title %}- Nueva Categoría{% endblock  %}
+{% block content %}
+  <h2>Crear Categoría</h2>
+  <form method="post" action="{% url 'crear_categoria' %}">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Guardar Categoría</button>
+  </form>
+{% endblock %}

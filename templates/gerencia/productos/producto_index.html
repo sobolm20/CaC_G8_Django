@@ -1,0 +1,26 @@
+{% extends 'gerencia/baseG.html' %}
+{% block title %}-Productos {% endblock  %}
+{% block content %}
+  <h2>Lista de Productos</h2>
+  
+  <ul>
+    {% for producto in productos %}
+      <li>
+        {{ producto.articulo }} - {{ producto.categoria }} - Precio: ${{ producto.precio }} - Marca: {{ producto.marca }} - Stock: {{producto.stock}} - Proveedor: {{producto.proveedor}} - Descripcion: {{producto.descrpcion}}
+        {% if producto.imagen %}
+          <img src="{{ producto.imagen.url }}" alt="{{ producto.articulo }}">
+        {% endif %}
+        <a href="{% url 'editarProducto' producto.id %}" class="btn btn-warning">Editar</a>
+        <a href="{% url 'eliminarProducto' producto.id %}" class="btn btn-danger">Eliminar</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Agregar Nuevo Producto</h2>
+  <form method="post" action="{% url 'crearProducto' %}" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Producto Nuevo</button>
+  </form>
+{% endblock %}
+

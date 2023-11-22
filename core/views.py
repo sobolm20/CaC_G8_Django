@@ -3,7 +3,7 @@ from django.http import Http404, HttpResponseBadRequest
 from django.urls import reverse
 import json
 from core.forms import ContactForm
-
+from django.views.generic import ListView
 
 # Create your views here.
 def index(request):
@@ -11,11 +11,21 @@ def index(request):
         productos=json.load(json_file)
 
     # Extraer todas las categorías únicas de los productos
-        categorias = set(producto['categoria'] for producto in productos)
+        # categorias = set(producto['categoria'] for producto in productos)
 
-        return render(request, "index.html", {'productos':productos,'categorias':categorias})
+        return render(request, "core/index.html", {'productos':productos})
 
-def contact(request):
+
+# class CategoriasListView(ListView):    
+#     template_name = "index.html"
+#     context_object_name = "categorias"
+#     model = Categoria 
+
+def nosotros(request):
+    return render(request, 'core/nosotros.html')
+
+
+def contacto(request):
     if request.method == "GET":
         formulario_contacto = ContactForm()
         # respuesta=""
@@ -23,20 +33,17 @@ def contact(request):
         formulario_contacto = ContactForm(request.POST)
         if formulario_contacto.is_valid():
             # respuesta=f"Mensaje recibido. Agradecemos su consulta."
-            return redirect(reverse('index'))
+            return redirect(reverse('respForm'))
     else:
         return HttpResponseBadRequest ("Método no correcto")
-    
     contexto={
         # 'respuesta': respuesta,
         'formulario': formulario_contacto,
     }
-        
-        
-    return render(request, "contact.html", contexto)
+    return render(request, "core/contacto.html", contexto)
 
-def contact2(request):
-    return render(request, "contact2.html")
+def respForm(request):
+    return render(request, "core/respForm.html")
 
 
 def details(request, producto_id):
@@ -60,5 +67,3 @@ def details(request, producto_id):
     
     return render(request, 'Details.html', {'producto': producto})
 
-def nosotros(request):
-    return render(request, 'Nosotros.html')

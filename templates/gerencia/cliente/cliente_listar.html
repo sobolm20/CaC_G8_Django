@@ -1,0 +1,23 @@
+{% extends 'gerencia/baseG.html' %}
+{% load static %}
+{% block header %}Clientes{% endblock header %}
+{% block titulo %}Listado clientes{% endblock%}
+<style>
+    td {
+        width: 150px; 
+        padding: 5px; 
+    }
+</style>
+{% block content %}
+<h1 class="mt-4">Listado clientes</h1>
+{% for cliente in clientes %}
+    <tr>
+        <td>{{ cliente.id }} &nbsp;&nbsp;  </td>
+        <td>{{ cliente.nombre }} </td>
+        <td>{{ cliente.apellido }} &nbsp;&nbsp; </td>
+        <td>&nbsp;&nbsp;<a href="{% url 'editarCliente' cliente.id %}" title="Editar" class="btn btn-warning">&nbsp;&nbsp; <i class="fas fa-pencil"></i></a></td>
+        <td>&nbsp;&nbsp;<a href="{% url 'eliminarCliente' cliente.id %}" title="Eliminar" class="btn btn-danger">&nbsp;&nbsp; <i class="fas fa-trash"></i></a></td>
+    </tr>
+    <br>
+{% endfor %}
+{% endblock %}

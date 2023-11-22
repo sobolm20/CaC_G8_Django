@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+<title>{% block title %}Nosotros{% endblock  %}</title>
+{% load static %}
+{% block header %}{% endblock header %}
+{% block imgheader %}{% endblock imgheader %}
+{% block content %}
+    <div class="container-xl text-info bg-dark">
+        <h1 class="text-center fst-italic">Proyecto integrador del curso de Django 2023</h1>
+    </div>
+    <div class="container-fluid card mb-3">
+        <img src="{% static 'core/img/ferreteroFondo.jpg' %}" class="card-img-top" alt="Fondo">
+        <div class="card-body">
+
+            <h2 class="card-title">Objetivo: Construir una aplicación web de una ferretería</h2>
+            <p class="card-text">Nuestra intención es crear una plataforma en línea que permita a los clientes y usuarios comprar productos y suministros relacionados con la ferretería. <br>
+                Nuestra web debe permitir a los clientes navegar y buscar productos de manera eficiente, ver detalles de los productos y realizar compras de manera sencilla. <br>               
+                Llevar un registro detallado de cuántos productos tiene en stock, información que se actualizará con cada compra y venta. <br>                
+                Permitir a los clientes opciones de búsqueda y filtrado que les permita encontrar productos específicos. <br>                
+                Facilitar la comunicación entre clientes y usuarios a través de un formulario de contacto.</p>
+
+        </div>
+    </div>
+    <h2 class="text-center"></h2>
+    <p>
+    </p>
+    <div class="text-end me-4">
+        <h2>Integrantes:</h2>
+        <ul>
+            <li>Fredes Gisela</li>
+            <li>Zols Lorena</li>
+            <li>Ruiz Dias Luis Alberto</li>
+            <li>Sobol Matias</li>
+        </ul>
+    </div>
+    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+        <a class="btn btn-primary" href="{% url 'index' %}" role="button">Volver</a>
+    </div>
+{% endblock %}

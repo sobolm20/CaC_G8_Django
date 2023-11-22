@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'core/css/style.css' %}">
+    {% comment %} <link rel="stylesheet" href="core/style.css"> {% endcomment %}
+    <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
+    <title>{% block title %}Gerencia{% endblock  %}</title>
+</head>
+
+<body>
+    <!-- As a heading -->
+    <div class="sb-nav-fixed">
+        <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+            <div id="layoutSidenav">
+                <div id="layoutSidenav_nav">
+                    <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+                        <div class="sb-sidenav-menu">
+                            <div class="nav">
+                                <div class="sb-sidenav-menu-heading">Gerencia</div>
+                                <a class="nav-link" href="{% url 'indexCliente' %}">
+                                    <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
+                                    Clientes
+                                </a>
+                                <a class="nav-link" href="#">
+                                    <div class="sb-nav-link-icon"><i class="fas fa-user-secret"></i></div>
+                                    Proveedores
+                                </a>
+                                <a class="nav-link" href="{% url 'producto_index' %}">
+                                    <div class="sb-nav-link-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                                    Productos
+                                </a>
+                                <a class="nav-link" href="{% url 'lista_categorias' %}">
+                                    <div class="sb-nav-link-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                                    Categorias
+                                </a>
+                                <a class="nav-link" href="{% url 'index' %}">
+                                    <div class="sb-nav-link-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                                    Home
+                                </a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <main class="container">
+        {% block content %} {% endblock %}
+    </main>
+
+    <!-- pie de pagina -->
+    <footer class="pie-pagina">
+        <!-- Contenido del pie de página -->
+        <footer class="pie-pagina">
+        <div class="grupo-1">
+            <div class="box">
+                <figure>
+                    <img src="{% static 'core/img/CaC_corto.jpeg' %}" alt="Sponsor">
+                    
+                </figure>
+            </div>
+            <div class="box">
+                <a href="{% url 'nosotros' %}"><h2>ABOUT US</h2></a>
+                <p>Práctica 2023</p>
+            </div>
+            <div class="box">
+                <h2>FOLOW US</h2>
+                <div class="red-social">
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-youtube"></a>
+                </div>
+            </div>
+        </div>
+        <div class="grupo-2">
+            <small>&copy; 2023 <b>Grupo 8 - Codo a Codo</b> - Todos los Derechos Reservados.</small>
+        </div>
+    </footer>
+
+</body>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!-- lista_categorias.html -->
+{% extends 'gerencia/baseG.html' %}
+{% block title %}-Catgorías{% endblock  %}
+{% block content %}
+  <h2>Lista de Categorías</h2>
+  
+  <ul>
+    {% for categoria in categorias %}
+      <li>
+        {{ categoria.nombre }}
+        <a href="{% url 'actualizar_categoria' categoria.id %}" class="btn btn-warning">Editar</a>
+        <a href="{% url 'eliminar_categoria' categoria.id %}" class="btn btn-danger">Eliminar</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Agregar Nueva Categoría</h2>
+  <form method="post" action="{% url 'crear_categoria' %}">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Guardar Categoría</button>
+  </form>
+{% endblock %}

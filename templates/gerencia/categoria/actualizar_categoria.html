@@ -1,0 +1,11 @@
+<!-- actualizar_categoria.html -->
+{% extends 'gerencia/baseG.html' %}
+{% block title %}- Editar Categoría{% endblock  %}
+{% block content %}
+  <h2>Actualizar Categoría</h2>
+  <form method="post" action="{% url 'actualizar_categoria' categoria.id %}">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Guardar Cambios</button>
+  </form>
+{% endblock %}

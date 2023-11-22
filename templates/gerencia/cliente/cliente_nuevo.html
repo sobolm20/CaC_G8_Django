@@ -1,0 +1,22 @@
+{% extends 'gerencia/baseG.html' %}
+
+{% block titulo %}Nuevo cliente{% endblock%}
+
+{% block content %}
+<h1 class="mt-4">Carga clientes</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a href="{% url 'indexGerencia' %}">Gerencia</a></li>
+    <li class="breadcrumb-item active">Nuevo cliente</li>
+</ol>
+
+
+<div class="card">
+    <div class="card-header">Cliente</div>
+    <div class="card-body">
+        <form action="{% url 'nuevoCliente' %}" method="post">
+            {% csrf_token %}
+            {% include 'gerecia/cliente/form.html' %}
+        </form>
+    </div>
+</div>
+{% endblock %}
