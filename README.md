@@ -6,6 +6,6 @@ Gisela Fredes
 
 Matias Sobol
 
-Loirena Zolss
+Lorena Zolss
 
 Luis Alberto Ruiz Diaz
