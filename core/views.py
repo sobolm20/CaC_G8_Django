@@ -65,7 +65,7 @@ def details(request, producto_id):
     if producto is None:
         raise Http404("Producto no encontrado")
     
-    return render(request, 'Details.html', {'producto': producto})
+    return render(request, 'core/Details.html', {'producto': producto})
 
 def loged_out(request):
     return render(request, 'registration/loged_out.html')
